@@ -12,7 +12,7 @@ Software Requirements
 
 The following software is required.  Note these items may require there own dependencies.
 
-* [Ionic](http://http://ionicframework.com/)
+* [Ionic](http://ionicframework.com/)
 * Some kind of IDE, I recommend [Sublime Text](http://www.sublimetext.com/)
 * In order to test the build on a device emulator (optional) you require [Xcode](https://developer.apple.com/xcode/) or [Android Studio](https://developer.android.com/sdk/index.html)
 
